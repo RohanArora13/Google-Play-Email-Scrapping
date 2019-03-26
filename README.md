@@ -8,3 +8,4 @@ tested on 26th march 2019
 - gonna add multi-threading to make it really fast
 - improve the code 
 - improve formatting
+- proper database 
