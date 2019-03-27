@@ -1,5 +1,5 @@
-# Google Play Email Scrapping
-script to get emails froms google play store
+# Google Play  Scrapping
+script to get data froms google play store
 
 tested on 26th march 2019
 ## Status Working
