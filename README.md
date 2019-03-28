@@ -6,4 +6,3 @@ script to get data froms google play store
 - improve the code 
 - improve formatting
 - proper database 
-- Another Project basedon this project for google play data analytics
